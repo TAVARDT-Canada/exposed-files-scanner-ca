@@ -1,14 +1,13 @@
 # Exposed Files and Sensitive Credentials Scanner | TAVARDT Canada
 
 [![Exposed Files Scanner](https://img.shields.io/badge/TAVARDT-Attack%20Surface-5b3cf5.svg)](https://tools.tavardt.com/ca/exposed-files-scanner/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-Canada-00C853.svg)](https://ag.tavardt.com/ca/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 CLI attack surface scanner for automated detection of environment secrets, database backups, and configuration disclosures.
 
-Developed and maintained by the offensive security and attack surface division of **[TAVARDT Canada](https://ag.tavardt.com/ca/)**.
+Developed and maintained by the offensive security and attack surface division of **TAVARDT Canada**.
 
----
+***
 
 ## Attack Surface Discovery Scope
 
@@ -18,7 +17,7 @@ Developed and maintained by the offensive security and attack surface division o
 * **Infrastructure Orchestration**: Verification of public `docker-compose.yml` assets and server disclosures via `phpinfo.php`.
 * **Regulatory Alignment**: Designed in alignment with CCCS Cyber Security Guidelines and PIPEDA Technical Safeguards.
 
----
+***
 
 ## Installation and Quick Start
 
@@ -33,20 +32,20 @@ python scanner.py enterprise.ca
 To export results in structured JSON format:
 
 ```bash
-python scanner.py enterprise.ca --json
+python scanner.py enterprise.ca -json
 ```
 
----
+***
 
 ## Online Web Diagnostics
 
 For automated surface monitoring and detailed vulnerability analysis, access the official web diagnostic suite:
 
-* **[Exposed Files and Secrets Scanner](https://tools.tavardt.com/ca/exposed-files-scanner/)**
-* **[TAVARDT Canada Corporate Portal](https://ag.tavardt.com/ca/)**
+* **Exposed Files and Secrets Scanner**
+* **TAVARDT Canada Corporate Portal**
 
----
+***
 
 ## Enterprise Attack Surface Consulting
 
-For penetration testing, vulnerability remediation, and zero-trust perimeter defense in Canada, contact **[TAVARDT Canada](https://ag.tavardt.com/ca/contact/)**.
+For penetration testing, vulnerability remediation, and zero-trust perimeter defense in Canada, contact **TAVARDT Canada**.
