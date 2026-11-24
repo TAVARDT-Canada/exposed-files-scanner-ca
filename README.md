@@ -5,7 +5,7 @@
 
 CLI attack surface scanner for automated detection of environment secrets, database backups, and configuration disclosures.
 
-Developed and maintained by the offensive security and attack surface division of **TAVARDT Canada**.
+Developed and maintained by the offensive security and attack surface division of **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python scanner.py enterprise.ca -json
 For automated surface monitoring and detailed vulnerability analysis, access the official web diagnostic suite:
 
 * **Exposed Files and Secrets Scanner**
-* **TAVARDT Canada Corporate Portal**
+* **TAVARDT Corporate Portal**
 
 ***
 
 ## Enterprise Attack Surface Consulting
 
-For penetration testing, vulnerability remediation, and zero-trust perimeter defense in Canada, contact **TAVARDT Canada**.
+For penetration testing, vulnerability remediation, and zero-trust perimeter defense in Canada, contact **TAVARDT**.
 
 ***
 
